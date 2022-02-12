@@ -1,0 +1,27 @@
+.body_backgorund 
+{
+    background-image:url(bg2.jpeg);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: whitesmoke; 
+    border-style:ridge;
+}
+
+h3
+{
+    width: 1000px;
+	background-color: black;
+	display: inline-block;
+    color:white;
+}
+
+#name{
+    width: 1000px;
+	background-color: black;
+	display: inline-block;
+    color: white;
+}
